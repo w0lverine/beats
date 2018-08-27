@@ -39,7 +39,7 @@ run Packetbeat with the following command:
 
 ["source","sh",subs="attributes,callouts"]
 ----------------------------------------------------------------------
-packetbeat -devices
+packetbeat devices
 ----------------------------------------------------------------------
 
 This command returns a list that looks something like the following:
